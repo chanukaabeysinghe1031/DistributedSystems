@@ -20,3 +20,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+educational-content-service/node_modules
